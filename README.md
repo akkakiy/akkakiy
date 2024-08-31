@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align='center'>
+  Привет!
 
-<!--
-**akkakiy/akkakiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> Меня зовут Максим и я начинающий инженер по тестированию.
+Тут собраны некоторые мои работы, созданные в процессе обучения в Яндекс Практикуме и что-то созданное в процессе тренировки
+</h2>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul>
+  <li>
+    В поисках работы по новой для себя специальности
+  </li>
+  <li>
+    Выпускник школы Яндекс Практикум, закончил курсы "Инженер по тестированию: от новичка до автоматизатора" 
+  </li>
+  <li>
+    В процессе обучения освоил: Postman, YouTrack, Charles, DevTools, Figma, Swagger, HTML, CSS, SQL, Git, Python, Pytest, Selenium, Allure, Playwright
+  </li>
+  <li>
+    Мое резюме <a href='https://hh.ru/resume/4539c963ff08e9e0130039ed1f794a564e534e' target='_blank'>click</a>
+  </li>
+</ul>
