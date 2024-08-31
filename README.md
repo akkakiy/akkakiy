@@ -16,6 +16,6 @@
     В процессе обучения освоил: Postman, YouTrack, Charles, DevTools, Figma, Swagger, HTML, CSS, SQL, Git, Python, Pytest, Selenium, Allure, Playwright
   </li>
   <li>
-    Мое резюме <a href='https://hh.ru/resume/4539c963ff08e9e0130039ed1f794a564e534e' target="_blank">click</a>
+    Мое резюме <a href="https://hh.ru/resume/4539c963ff08e9e0130039ed1f794a564e534e" target="_blank">click</a>
   </li>
 </ul>
