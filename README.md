@@ -22,6 +22,6 @@
     <a href="https://t.me/maxbelm" target="_blank">Мой телеграм</a> 
   </li>
   <li>
-    <a href="mailto:akkakiy13@mail.com" target="_blank">Моя почта</a>
+    <a href="mailto:akkakiy13@gmail.com" target="_blank">Моя почта</a>
   </li>
 </ul>
