@@ -14,7 +14,7 @@
     Выпускник школы Яндекс Практикум, закончил курсы "Инженер по тестированию: от новичка до автоматизатора" 
   </li>
   <li>
-    В процессе обучения освоил: Postman, YouTrack, Charles, DevTools, Figma, Swagger, HTML, CSS, SQL, Git, Python, Pytest, Selenium, Allure, Playwright
+    В процессе обучения освоил: <b>Postman, YouTrack, Charles, DevTools, Figma, Swagger, HTML, CSS, SQL, Git, Python, Pytest, Selenium, Allure, Playwright</b>  
   </li>
   </div>
 
