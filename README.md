@@ -16,6 +16,12 @@
     В процессе обучения освоил: Postman, YouTrack, Charles, DevTools, Figma, Swagger, HTML, CSS, SQL, Git, Python, Pytest, Selenium, Allure, Playwright
   </li>
   <li>
-    Мое резюме <a href="https://hh.ru/resume/4539c963ff08e9e0130039ed1f794a564e534e" target="_blank">click</a>
+    <a href="https://hh.ru/resume/4539c963ff08e9e0130039ed1f794a564e534e" target="_blank">Мое резюме</a>
+  </li>
+  <li>
+    <a href="https://t.me/maxbelm" target="_blank">Мой телеграм</a> 
+  </li>
+  <li>
+    <a href="akkakiy13@mail.com" target="_blank">Моя почта</a>
   </li>
 </ul>
