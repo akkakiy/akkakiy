@@ -20,9 +20,6 @@
 
   <div id="badges" align='center'>
   <li>
-    <a href="https://hh.ru/resume/4539c963ff08e9e0130039ed1f794a564e534e" target="_blank">Резюме</a>
-  </li>
-  <li>
     <a href="mailto:akkakiy13@gmail.com" target="_blank">Почта</a>
   </li>
 </ul>
